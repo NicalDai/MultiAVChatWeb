@@ -19,3 +19,8 @@ After Join Meeting , the following Logic you can refer to :
 
 I design four Container for Remote View, so this demo can support 5 people meeting.
 You can also find the Player's accid above his View.
+
+## NPM Deploy
+Open this Project by vscode,run npm  install -g live-server  in Terminal
+
+![avatar](https://nim-nosdn.netease.im/MTAxMTAwMg==/bmltYV8xMzE4NzQ1NTg1XzE1NzQ2NjAwODcwNDVfZDE1Njg2MGItMzVhYS00ZmI4LTgxMDUtMzZhODZlMGFhMGI5?imageView&createTime=1574660087322)

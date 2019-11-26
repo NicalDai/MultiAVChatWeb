@@ -4,7 +4,7 @@ MultiPlayer AVChatDemo for Web, powered by NIM web sdk.
 ## Login Part
 The UI is refer to https://app.yunxin.163.com/webdemo/im/login.html
 
-Login part is just a fake login, save the account and password to Cookie, and shar3 to the main.js for real login.
+Login part is just a fake login, save the account and password to Cookie, and share to the main.js for real login.
 
 ## Main Part
 After jump to this page Main.html, var nim = NIM.getInstance will connect the NIM server for AVChat signal Logic.

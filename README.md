@@ -7,7 +7,7 @@ The UI is refer to https://app.yunxin.163.com/webdemo/im/login.html
 Login part is just a fake login, save the account and password to Cookie, and share to the main.js for real login.
 
 ## Main Part
-After jump to this page Main.html, 'var nim = NIM.getInstance' will connect the NIM server for AVChat signal Logic.
+After jump to this page Main.html, `var nim = NIM.getInstance` will connect the NIM server for AVChat signal Logic.
 For more NIM information please refer to : 
 [NIM init](https://dev.yunxin.163.com/docs/product/IM%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/SDK%E5%BC%80%E5%8F%91%E9%9B%86%E6%88%90/Web%E5%BC%80%E5%8F%91%E9%9B%86%E6%88%90/%E5%88%9D%E5%A7%8B%E5%8C%96)
 
@@ -24,5 +24,5 @@ You can also find the Player's accid above his View.
 ## NPM Deploy
 Open this Project by vscode,run 'npm  install -g live-server'  in Terminal
 
-Use vscode to open the project，npm in terminal to install ：'npm install -g live-server'
+Use vscode to open the project，npm in terminal to install ：`npm install -g live-server`
 using live-server
